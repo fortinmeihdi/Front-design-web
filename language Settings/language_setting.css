@@ -1,0 +1,19 @@
+
+/* body */
+body {
+    width: 100%;
+    min-height: 100vh;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    margin: 0;
+    padding: 0;
+  
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+input[type='radio'] { 
+    transform: scale(2); 
+}
